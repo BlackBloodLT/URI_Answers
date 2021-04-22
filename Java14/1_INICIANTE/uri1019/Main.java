@@ -6,7 +6,7 @@
  * Saída
  * Imprima o tempo lido no arquivo de entrada (segundos), convertido para horas:minutos:segundos, conforme exemplo fornecido.
  */
-package uri2019;
+package uri1019;
 
 import java.io.IOException;
 import java.util.Scanner;
