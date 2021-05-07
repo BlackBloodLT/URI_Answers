@@ -27,4 +27,5 @@ numeroSegundo = int(input())
 
 soma = numeroPrimeiro+numeroSegundo
 
-print("X =",soma)
+#print("X =",soma)
+print("X = %d" %soma)
