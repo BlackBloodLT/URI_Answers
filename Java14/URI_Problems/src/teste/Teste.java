@@ -10,11 +10,8 @@ public class Teste {
 
         Scanner scanner = new Scanner(System.in);
 
-        int numeroCasos = scanner.nextInt();
+        double numeroCasos = scanner.nextInt();
 
-        for(int cont=1 ; cont<=numeroCasos ; cont++) {
-
-            System.out.println(scanner.nextInt()%2);
-        }
+        System.out.println(numeroCasos);
     }
 }
